@@ -1,4 +1,5 @@
 const  mult=(a,b)=>{
-    return a*b
+   console.log("Hello World")
+   return "Hello katlas"
 }
 mult(4,5)
